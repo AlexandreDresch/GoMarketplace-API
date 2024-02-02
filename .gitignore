@@ -1,0 +1,5 @@
+# Ignore .env files
+*.env
+
+# Ignore docker folder
+.data/
